@@ -1,5 +1,5 @@
 {
-  "name": "edmondscommerce/behat-javascript-context",
+  "name": "edmondscommerce/behat-prestashop-context",
   "description": "Behat context for Prestashop",
   "keywords": [
     "Behat",
