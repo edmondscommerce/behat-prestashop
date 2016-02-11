@@ -1,0 +1,28 @@
+{
+  "name": "edmondscommerce/behat-javascript-context",
+  "description": "Behat context for Prestashop",
+  "keywords": [
+    "Behat",
+    "Testing",
+    "Prestashop",
+    "Browser"
+  ],
+  "homepage": "https://www.edmondscommerce.co.uk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "edmondscommerce",
+      "email": "info@edmondscommerce.co.uk"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "behat/behat": "~3.0",
+    "edmondscommerce/faker-context": "*@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "EdmondsCommerce\\BehatPrestashop\\": "src/"
+    }
+  }
+}
