@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "behat/behat": "~3.0",
+    "behat/behat": "~3.4",
     "edmondscommerce/faker-context": "*@dev"
   },
   "autoload": {
